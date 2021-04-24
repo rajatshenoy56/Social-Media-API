@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+pichainenv
+db.sqlite3
+/static
+.DS_Store
+.idea
+socialenv
